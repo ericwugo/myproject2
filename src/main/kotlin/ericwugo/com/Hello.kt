@@ -1,8 +1,8 @@
 package ericwugo.com
 
 fun main(){
-    val h = Hoo()
-    h.hello()
+    val h1 = Hoo()
+    h1.hello()
 }
 
 class Hoo {
